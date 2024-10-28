@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng",
+    "description": "Nasi yang digoreng dengan bumbu dan sayuran.",
+    "category": "Makanan"
+  },
+  {
+    "id": 2,
+    "name": "Sate Ayam",
+    "description": "Daging ayam yang ditusuk dan dibakar, disajikan dengan saus kacang.",
+    "category": "Makanan"
+  },
+  {
+    "id": 3,
+    "name": "Rendang",
+    "description": "Daging sapi yang dimasak dengan rempah-rempah hingga empuk.",
+    "category": "Makanan"
+  },
+  {
+    "id": 4,
+    "name": "Gado-Gado",
+    "description": "Salad sayuran dengan bumbu kacang.",
+    "category": "Makanan"
+  },
+  {
+    "id": 5,
+    "name": "Bakso",
+    "description": "Bola daging yang biasanya disajikan dalam kuah kaldu.",
+    "category": "Makanan"
+  },
+  {
+    "id": 6,
+    "name": "Nasi Uduk",
+    "description": "Nasi yang dimasak dengan santan dan rempah-rempah.",
+    "category": "Makanan"
+  },
+  {
+    "id": 7,
+    "name": "Mie Goreng",
+    "description": "Mie yang digoreng dengan sayuran dan bumbu.",
+    "category": "Makanan"
+  },
+  {
+    "id": 8,
+    "name": "Ayam Penyet",
+    "description": "Ayam goreng yang dihancurkan dan disajikan dengan sambal.",
+    "category": "Makanan"
+  },
+  {
+    "id": 9,
+    "name": "Soto Ayam",
+    "description": "Sup ayam dengan rempah-rempah dan nasi.",
+    "category": "Makanan"
+  },
+  {
+    "id": 10,
+    "name": "Kwetiau Goreng",
+    "description": "Mie lebar yang digoreng dengan bumbu dan sayuran.",
+    "category": "Makanan"
+  }
+]
